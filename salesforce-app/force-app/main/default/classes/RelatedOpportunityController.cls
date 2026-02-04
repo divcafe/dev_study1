@@ -2,7 +2,7 @@
  * @description       : 取引先に紐づく商談を管理するコントローラー
  * @author            : Antigravity
  * @group             : Controller
- * @last modified on  : 2026-02-03
+ * @last modified on  : 2026-02-04
  * @last modified by  : Antigravity
 **/
 public with sharing class RelatedOpportunityController {
