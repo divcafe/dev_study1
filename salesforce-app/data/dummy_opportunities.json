@@ -1,0 +1,1654 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_0"
+      },
+      "AccountId": "001Bi00000P7svBIAR",
+      "Name": "次世代エレクトロニクス株式会社 - Existing Business Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-09",
+      "Amount": 9540000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_1"
+      },
+      "AccountId": "001Bi00000P7svBIAR",
+      "Name": "次世代エレクトロニクス株式会社 - New Business Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-28",
+      "Amount": 7730000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_2"
+      },
+      "AccountId": "001Bi00000P7svBIAR",
+      "Name": "次世代エレクトロニクス株式会社 - Upgrade Project 3",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-20",
+      "Amount": 6970000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_3"
+      },
+      "AccountId": "001Bi00000P7svCIAR",
+      "Name": "新日本マテリアル株式会社 - Existing Business Project 1",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-17",
+      "Amount": 2480000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_4"
+      },
+      "AccountId": "001Bi00000P7svCIAR",
+      "Name": "新日本マテリアル株式会社 - Replacement Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-03-28",
+      "Amount": 3980000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_5"
+      },
+      "AccountId": "001Bi00000P7svCIAR",
+      "Name": "新日本マテリアル株式会社 - Replacement Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-08",
+      "Amount": 2760000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_6"
+      },
+      "AccountId": "001Bi00000P7svDIAR",
+      "Name": "未来テクノロジー株式会社 - Upgrade Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-02",
+      "Amount": 6660000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_7"
+      },
+      "AccountId": "001Bi00000P7svDIAR",
+      "Name": "未来テクノロジー株式会社 - Upgrade Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-03-30",
+      "Amount": 5690000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_8"
+      },
+      "AccountId": "001Bi00000P7svDIAR",
+      "Name": "未来テクノロジー株式会社 - New Business Project 3",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-24",
+      "Amount": 1240000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_9"
+      },
+      "AccountId": "001Bi00000P7svEIAR",
+      "Name": "サイバー産業株式会社 - Upgrade Project 1",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-02",
+      "Amount": 6580000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_10"
+      },
+      "AccountId": "001Bi00000P7svEIAR",
+      "Name": "サイバー産業株式会社 - New Business Project 2",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-24",
+      "Amount": 9700000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_11"
+      },
+      "AccountId": "001Bi00000P7svEIAR",
+      "Name": "サイバー産業株式会社 - Existing Business Project 3",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-23",
+      "Amount": 8310000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_12"
+      },
+      "AccountId": "001Bi00000P7svFIAR",
+      "Name": "東洋技研合同会社 - Existing Business Project 1",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-08",
+      "Amount": 7450000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_13"
+      },
+      "AccountId": "001Bi00000P7svFIAR",
+      "Name": "東洋技研合同会社 - New Business Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-15",
+      "Amount": 5710000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_14"
+      },
+      "AccountId": "001Bi00000P7svFIAR",
+      "Name": "東洋技研合同会社 - New Business Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-07",
+      "Amount": 6230000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_15"
+      },
+      "AccountId": "001Bi00000P7svGIAR",
+      "Name": "ジャパン化成株式会社 - Upgrade Project 1",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-04-05",
+      "Amount": 7590000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_16"
+      },
+      "AccountId": "001Bi00000P7svGIAR",
+      "Name": "ジャパン化成株式会社 - New Business Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-18",
+      "Amount": 5950000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_17"
+      },
+      "AccountId": "001Bi00000P7svGIAR",
+      "Name": "ジャパン化成株式会社 - Upgrade Project 3",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-03-09",
+      "Amount": 7020000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_18"
+      },
+      "AccountId": "001Bi00000P7svHIAR",
+      "Name": "未来技研合同会社 - Existing Business Project 1",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-03-15",
+      "Amount": 3770000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_19"
+      },
+      "AccountId": "001Bi00000P7svHIAR",
+      "Name": "未来技研合同会社 - New Business Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-02-28",
+      "Amount": 7770000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_20"
+      },
+      "AccountId": "001Bi00000P7svHIAR",
+      "Name": "未来技研合同会社 - Existing Business Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-02-24",
+      "Amount": 8020000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_21"
+      },
+      "AccountId": "001Bi00000P7svIIAR",
+      "Name": "東洋エレクトロニクス合同会社 - Replacement Project 1",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-02-28",
+      "Amount": 2130000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_22"
+      },
+      "AccountId": "001Bi00000P7svIIAR",
+      "Name": "東洋エレクトロニクス合同会社 - Existing Business Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-04-04",
+      "Amount": 5810000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_23"
+      },
+      "AccountId": "001Bi00000P7svIIAR",
+      "Name": "東洋エレクトロニクス合同会社 - Replacement Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-03-27",
+      "Amount": 4320000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_24"
+      },
+      "AccountId": "001Bi00000P7svJIAR",
+      "Name": "サイバー化成株式会社 - New Business Project 1",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-16",
+      "Amount": 4440000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_25"
+      },
+      "AccountId": "001Bi00000P7svJIAR",
+      "Name": "サイバー化成株式会社 - Replacement Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-07",
+      "Amount": 8530000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_26"
+      },
+      "AccountId": "001Bi00000P7svJIAR",
+      "Name": "サイバー化成株式会社 - Existing Business Project 3",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-03-10",
+      "Amount": 3250000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_27"
+      },
+      "AccountId": "001Bi00000P7svKIAR",
+      "Name": "東洋テクノロジー株式会社 - Existing Business Project 1",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-27",
+      "Amount": 5180000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_28"
+      },
+      "AccountId": "001Bi00000P7svKIAR",
+      "Name": "東洋テクノロジー株式会社 - Upgrade Project 2",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-01",
+      "Amount": 8410000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_29"
+      },
+      "AccountId": "001Bi00000P7svKIAR",
+      "Name": "東洋テクノロジー株式会社 - Upgrade Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-27",
+      "Amount": 6270000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_30"
+      },
+      "AccountId": "001Bi00000P7svLIAR",
+      "Name": "東洋化成株式会社 - Existing Business Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-03-26",
+      "Amount": 4210000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_31"
+      },
+      "AccountId": "001Bi00000P7svLIAR",
+      "Name": "東洋化成株式会社 - Existing Business Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-04-22",
+      "Amount": 4730000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_32"
+      },
+      "AccountId": "001Bi00000P7svLIAR",
+      "Name": "東洋化成株式会社 - Existing Business Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-23",
+      "Amount": 7540000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_33"
+      },
+      "AccountId": "001Bi00000P7svMIAR",
+      "Name": "グローバル産業株式会社 - New Business Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-05-02",
+      "Amount": 3060000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_34"
+      },
+      "AccountId": "001Bi00000P7svMIAR",
+      "Name": "グローバル産業株式会社 - Replacement Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-10",
+      "Amount": 4050000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_35"
+      },
+      "AccountId": "001Bi00000P7svMIAR",
+      "Name": "グローバル産業株式会社 - New Business Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-03-06",
+      "Amount": 4180000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_36"
+      },
+      "AccountId": "001Bi00000P7svNIAR",
+      "Name": "グローバル製作所株式会社 - Existing Business Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-03-08",
+      "Amount": 5590000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_37"
+      },
+      "AccountId": "001Bi00000P7svNIAR",
+      "Name": "グローバル製作所株式会社 - Existing Business Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-04-29",
+      "Amount": 2910000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_38"
+      },
+      "AccountId": "001Bi00000P7svNIAR",
+      "Name": "グローバル製作所株式会社 - Existing Business Project 3",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-15",
+      "Amount": 7100000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_39"
+      },
+      "AccountId": "001Bi00000P7svOIAR",
+      "Name": "帝都産業株式会社 - Existing Business Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-07",
+      "Amount": 4310000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_40"
+      },
+      "AccountId": "001Bi00000P7svOIAR",
+      "Name": "帝都産業株式会社 - Upgrade Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-04",
+      "Amount": 9710000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_41"
+      },
+      "AccountId": "001Bi00000P7svOIAR",
+      "Name": "帝都産業株式会社 - New Business Project 3",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-04",
+      "Amount": 2800000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_42"
+      },
+      "AccountId": "001Bi00000P7svPIAR",
+      "Name": "未来化成株式会社 - Upgrade Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-23",
+      "Amount": 4790000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_43"
+      },
+      "AccountId": "001Bi00000P7svPIAR",
+      "Name": "未来化成株式会社 - New Business Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-17",
+      "Amount": 6110000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_44"
+      },
+      "AccountId": "001Bi00000P7svPIAR",
+      "Name": "未来化成株式会社 - Replacement Project 3",
+      "StageName": "Qualification",
+      "CloseDate": "2026-04-08",
+      "Amount": 6740000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_45"
+      },
+      "AccountId": "001Bi00000P7svQIAR",
+      "Name": "ジャパン工業株式会社 - Replacement Project 1",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-02-23",
+      "Amount": 8150000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_46"
+      },
+      "AccountId": "001Bi00000P7svQIAR",
+      "Name": "ジャパン工業株式会社 - New Business Project 2",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-24",
+      "Amount": 6700000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_47"
+      },
+      "AccountId": "001Bi00000P7svQIAR",
+      "Name": "ジャパン工業株式会社 - New Business Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-22",
+      "Amount": 9820000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_48"
+      },
+      "AccountId": "001Bi00000P7svRIAR",
+      "Name": "サイバーエレクトロニクス合同会社 - Upgrade Project 1",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-20",
+      "Amount": 9490000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_49"
+      },
+      "AccountId": "001Bi00000P7svRIAR",
+      "Name": "サイバーエレクトロニクス合同会社 - Existing Business Project 2",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-03-28",
+      "Amount": 9840000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_50"
+      },
+      "AccountId": "001Bi00000P7svRIAR",
+      "Name": "サイバーエレクトロニクス合同会社 - New Business Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-09",
+      "Amount": 1790000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_51"
+      },
+      "AccountId": "001Bi00000P7svSIAR",
+      "Name": "グローバルテクノロジー株式会社 - New Business Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-22",
+      "Amount": 5870000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_52"
+      },
+      "AccountId": "001Bi00000P7svSIAR",
+      "Name": "グローバルテクノロジー株式会社 - Upgrade Project 2",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-18",
+      "Amount": 8460000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_53"
+      },
+      "AccountId": "001Bi00000P7svSIAR",
+      "Name": "グローバルテクノロジー株式会社 - Upgrade Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-29",
+      "Amount": 7790000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_54"
+      },
+      "AccountId": "001Bi00000P7svTIAR",
+      "Name": "ジャパンエレクトロニクス合同会社 - Replacement Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-02-21",
+      "Amount": 6990000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_55"
+      },
+      "AccountId": "001Bi00000P7svTIAR",
+      "Name": "ジャパンエレクトロニクス合同会社 - Replacement Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-26",
+      "Amount": 5870000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_56"
+      },
+      "AccountId": "001Bi00000P7svTIAR",
+      "Name": "ジャパンエレクトロニクス合同会社 - Replacement Project 3",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-02-17",
+      "Amount": 3250000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_57"
+      },
+      "AccountId": "001Bi00000P7svUIAR",
+      "Name": "帝都産業株式会社 - Existing Business Project 1",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-30",
+      "Amount": 9290000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_58"
+      },
+      "AccountId": "001Bi00000P7svUIAR",
+      "Name": "帝都産業株式会社 - Replacement Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-08",
+      "Amount": 8730000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_59"
+      },
+      "AccountId": "001Bi00000P7svUIAR",
+      "Name": "帝都産業株式会社 - Existing Business Project 3",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-23",
+      "Amount": 5760000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_60"
+      },
+      "AccountId": "001Bi00000P7svVIAR",
+      "Name": "令和マテリアル株式会社 - Replacement Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-04-04",
+      "Amount": 1750000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_61"
+      },
+      "AccountId": "001Bi00000P7svVIAR",
+      "Name": "令和マテリアル株式会社 - Existing Business Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-02-16",
+      "Amount": 7770000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_62"
+      },
+      "AccountId": "001Bi00000P7svVIAR",
+      "Name": "令和マテリアル株式会社 - New Business Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-29",
+      "Amount": 2420000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_63"
+      },
+      "AccountId": "001Bi00000P7svWIAR",
+      "Name": "サイバー産業株式会社 - Existing Business Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-26",
+      "Amount": 2480000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_64"
+      },
+      "AccountId": "001Bi00000P7svWIAR",
+      "Name": "サイバー産業株式会社 - Replacement Project 2",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-18",
+      "Amount": 7970000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_65"
+      },
+      "AccountId": "001Bi00000P7svWIAR",
+      "Name": "サイバー産業株式会社 - Replacement Project 3",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-02-21",
+      "Amount": 4180000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_66"
+      },
+      "AccountId": "001Bi00000P7svXIAR",
+      "Name": "新日本エレクトロニクス合同会社 - New Business Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-06",
+      "Amount": 9060000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_67"
+      },
+      "AccountId": "001Bi00000P7svXIAR",
+      "Name": "新日本エレクトロニクス合同会社 - Upgrade Project 2",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-30",
+      "Amount": 4890000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_68"
+      },
+      "AccountId": "001Bi00000P7svXIAR",
+      "Name": "新日本エレクトロニクス合同会社 - New Business Project 3",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-23",
+      "Amount": 8600000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_69"
+      },
+      "AccountId": "001Bi00000P7svYIAR",
+      "Name": "新日本技研合同会社 - Replacement Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-24",
+      "Amount": 7200000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_70"
+      },
+      "AccountId": "001Bi00000P7svYIAR",
+      "Name": "新日本技研合同会社 - Replacement Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-14",
+      "Amount": 2160000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_71"
+      },
+      "AccountId": "001Bi00000P7svYIAR",
+      "Name": "新日本技研合同会社 - New Business Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-11",
+      "Amount": 5860000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_72"
+      },
+      "AccountId": "001Bi00000P7svZIAR",
+      "Name": "令和テクノロジー株式会社 - Existing Business Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-06",
+      "Amount": 8520000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_73"
+      },
+      "AccountId": "001Bi00000P7svZIAR",
+      "Name": "令和テクノロジー株式会社 - Replacement Project 2",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-19",
+      "Amount": 9410000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_74"
+      },
+      "AccountId": "001Bi00000P7svZIAR",
+      "Name": "令和テクノロジー株式会社 - Existing Business Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-02-27",
+      "Amount": 9380000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_75"
+      },
+      "AccountId": "001Bi00000P7svaIAB",
+      "Name": "グローバルエレクトロニクス株式会社 - Existing Business Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-13",
+      "Amount": 7910000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_76"
+      },
+      "AccountId": "001Bi00000P7svaIAB",
+      "Name": "グローバルエレクトロニクス株式会社 - Existing Business Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-04-28",
+      "Amount": 4480000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_77"
+      },
+      "AccountId": "001Bi00000P7svaIAB",
+      "Name": "グローバルエレクトロニクス株式会社 - Existing Business Project 3",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-18",
+      "Amount": 5470000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_78"
+      },
+      "AccountId": "001Bi00000P7svbIAB",
+      "Name": "新日本マテリアル株式会社 - Upgrade Project 1",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-14",
+      "Amount": 7070000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_79"
+      },
+      "AccountId": "001Bi00000P7svbIAB",
+      "Name": "新日本マテリアル株式会社 - New Business Project 2",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-13",
+      "Amount": 6410000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_80"
+      },
+      "AccountId": "001Bi00000P7svbIAB",
+      "Name": "新日本マテリアル株式会社 - New Business Project 3",
+      "StageName": "Qualification",
+      "CloseDate": "2026-02-28",
+      "Amount": 2160000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_81"
+      },
+      "AccountId": "001Bi00000P7svcIAB",
+      "Name": "新日本エレクトロニクス株式会社 - New Business Project 1",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-21",
+      "Amount": 3660000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_82"
+      },
+      "AccountId": "001Bi00000P7svcIAB",
+      "Name": "新日本エレクトロニクス株式会社 - Replacement Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-04-09",
+      "Amount": 9690000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_83"
+      },
+      "AccountId": "001Bi00000P7svcIAB",
+      "Name": "新日本エレクトロニクス株式会社 - Upgrade Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-29",
+      "Amount": 4500000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_84"
+      },
+      "AccountId": "001Bi00000P7svdIAB",
+      "Name": "グローバル工業株式会社 - New Business Project 1",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-09",
+      "Amount": 6070000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_85"
+      },
+      "AccountId": "001Bi00000P7svdIAB",
+      "Name": "グローバル工業株式会社 - Upgrade Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-08",
+      "Amount": 1310000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_86"
+      },
+      "AccountId": "001Bi00000P7svdIAB",
+      "Name": "グローバル工業株式会社 - Existing Business Project 3",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-27",
+      "Amount": 2530000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_87"
+      },
+      "AccountId": "001Bi00000P7sveIAB",
+      "Name": "サイバーテクノロジー合同会社 - New Business Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-06",
+      "Amount": 7280000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_88"
+      },
+      "AccountId": "001Bi00000P7sveIAB",
+      "Name": "サイバーテクノロジー合同会社 - New Business Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-04-07",
+      "Amount": 5800000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_89"
+      },
+      "AccountId": "001Bi00000P7sveIAB",
+      "Name": "サイバーテクノロジー合同会社 - Replacement Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-03-14",
+      "Amount": 3370000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_90"
+      },
+      "AccountId": "001Bi00000P7svfIAB",
+      "Name": "令和製作所株式会社 - Upgrade Project 1",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-03-06",
+      "Amount": 4390000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_91"
+      },
+      "AccountId": "001Bi00000P7svfIAB",
+      "Name": "令和製作所株式会社 - Replacement Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-05-01",
+      "Amount": 4140000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_92"
+      },
+      "AccountId": "001Bi00000P7svfIAB",
+      "Name": "令和製作所株式会社 - New Business Project 3",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-08",
+      "Amount": 2490000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_93"
+      },
+      "AccountId": "001Bi00000P7svgIAB",
+      "Name": "サイバー産業株式会社 - Existing Business Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-27",
+      "Amount": 6170000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_94"
+      },
+      "AccountId": "001Bi00000P7svgIAB",
+      "Name": "サイバー産業株式会社 - Existing Business Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-12",
+      "Amount": 7680000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_95"
+      },
+      "AccountId": "001Bi00000P7svgIAB",
+      "Name": "サイバー産業株式会社 - New Business Project 3",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-27",
+      "Amount": 6230000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_96"
+      },
+      "AccountId": "001Bi00000P7svhIAB",
+      "Name": "東洋産業株式会社 - Upgrade Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-02-12",
+      "Amount": 7940000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_97"
+      },
+      "AccountId": "001Bi00000P7svhIAB",
+      "Name": "東洋産業株式会社 - Upgrade Project 2",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-09",
+      "Amount": 7670000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_98"
+      },
+      "AccountId": "001Bi00000P7svhIAB",
+      "Name": "東洋産業株式会社 - Existing Business Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-19",
+      "Amount": 8700000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_99"
+      },
+      "AccountId": "001Bi00000P7sviIAB",
+      "Name": "ジャパン化成合同会社 - Upgrade Project 1",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-23",
+      "Amount": 6380000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_100"
+      },
+      "AccountId": "001Bi00000P7sviIAB",
+      "Name": "ジャパン化成合同会社 - Upgrade Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-03-28",
+      "Amount": 7130000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_101"
+      },
+      "AccountId": "001Bi00000P7sviIAB",
+      "Name": "ジャパン化成合同会社 - Replacement Project 3",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-12",
+      "Amount": 8250000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_102"
+      },
+      "AccountId": "001Bi00000P7svjIAB",
+      "Name": "東洋化成合同会社 - Existing Business Project 1",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-13",
+      "Amount": 9280000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_103"
+      },
+      "AccountId": "001Bi00000P7svjIAB",
+      "Name": "東洋化成合同会社 - New Business Project 2",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-03-18",
+      "Amount": 6700000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_104"
+      },
+      "AccountId": "001Bi00000P7svjIAB",
+      "Name": "東洋化成合同会社 - Replacement Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-05",
+      "Amount": 7640000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_105"
+      },
+      "AccountId": "001Bi00000P7svkIAB",
+      "Name": "アジアマテリアル株式会社 - Replacement Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-19",
+      "Amount": 2200000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_106"
+      },
+      "AccountId": "001Bi00000P7svkIAB",
+      "Name": "アジアマテリアル株式会社 - Upgrade Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-11",
+      "Amount": 9520000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_107"
+      },
+      "AccountId": "001Bi00000P7svkIAB",
+      "Name": "アジアマテリアル株式会社 - Upgrade Project 3",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-02-17",
+      "Amount": 9550000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_108"
+      },
+      "AccountId": "001Bi00000P7svlIAB",
+      "Name": "未来技研株式会社 - New Business Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-04-17",
+      "Amount": 8210000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_109"
+      },
+      "AccountId": "001Bi00000P7svlIAB",
+      "Name": "未来技研株式会社 - Existing Business Project 2",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-27",
+      "Amount": 4400000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_110"
+      },
+      "AccountId": "001Bi00000P7svlIAB",
+      "Name": "未来技研株式会社 - Existing Business Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-10",
+      "Amount": 6330000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_111"
+      },
+      "AccountId": "001Bi00000P7svmIAB",
+      "Name": "サイバーマテリアル株式会社 - Existing Business Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-02-26",
+      "Amount": 1220000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_112"
+      },
+      "AccountId": "001Bi00000P7svmIAB",
+      "Name": "サイバーマテリアル株式会社 - Upgrade Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-13",
+      "Amount": 8800000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_113"
+      },
+      "AccountId": "001Bi00000P7svmIAB",
+      "Name": "サイバーマテリアル株式会社 - New Business Project 3",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-04-15",
+      "Amount": 1290000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_114"
+      },
+      "AccountId": "001Bi00000P7svnIAB",
+      "Name": "新日本製造株式会社 - Upgrade Project 1",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-03-17",
+      "Amount": 9380000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_115"
+      },
+      "AccountId": "001Bi00000P7svnIAB",
+      "Name": "新日本製造株式会社 - New Business Project 2",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-01",
+      "Amount": 1660000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_116"
+      },
+      "AccountId": "001Bi00000P7svnIAB",
+      "Name": "新日本製造株式会社 - Existing Business Project 3",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-03-27",
+      "Amount": 1230000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_117"
+      },
+      "AccountId": "001Bi00000P7svoIAB",
+      "Name": "ジャパンマテリアル合同会社 - Existing Business Project 1",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-03-19",
+      "Amount": 8230000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_118"
+      },
+      "AccountId": "001Bi00000P7svoIAB",
+      "Name": "ジャパンマテリアル合同会社 - Upgrade Project 2",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-04",
+      "Amount": 3140000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_119"
+      },
+      "AccountId": "001Bi00000P7svoIAB",
+      "Name": "ジャパンマテリアル合同会社 - Upgrade Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-30",
+      "Amount": 9910000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_120"
+      },
+      "AccountId": "001Bi00000P7svpIAB",
+      "Name": "令和産業合同会社 - Existing Business Project 1",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-03-03",
+      "Amount": 4880000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_121"
+      },
+      "AccountId": "001Bi00000P7svpIAB",
+      "Name": "令和産業合同会社 - Upgrade Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-18",
+      "Amount": 2410000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_122"
+      },
+      "AccountId": "001Bi00000P7svpIAB",
+      "Name": "令和産業合同会社 - New Business Project 3",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-02-17",
+      "Amount": 7630000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_123"
+      },
+      "AccountId": "001Bi00000P7svqIAB",
+      "Name": "グローバル重工合同会社 - New Business Project 1",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-07",
+      "Amount": 1010000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_124"
+      },
+      "AccountId": "001Bi00000P7svqIAB",
+      "Name": "グローバル重工合同会社 - Replacement Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-03-23",
+      "Amount": 1140000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_125"
+      },
+      "AccountId": "001Bi00000P7svqIAB",
+      "Name": "グローバル重工合同会社 - Upgrade Project 3",
+      "StageName": "Closed Won",
+      "CloseDate": "2026-04-11",
+      "Amount": 8780000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_126"
+      },
+      "AccountId": "001Bi00000P7svrIAB",
+      "Name": "令和重工合同会社 - Existing Business Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-03",
+      "Amount": 3420000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_127"
+      },
+      "AccountId": "001Bi00000P7svrIAB",
+      "Name": "令和重工合同会社 - Replacement Project 2",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-02-28",
+      "Amount": 4390000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_128"
+      },
+      "AccountId": "001Bi00000P7svrIAB",
+      "Name": "令和重工合同会社 - Upgrade Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-03-14",
+      "Amount": 6690000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_129"
+      },
+      "AccountId": "001Bi00000P7svsIAB",
+      "Name": "ジャパン重工合同会社 - Existing Business Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-05-02",
+      "Amount": 9020000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_130"
+      },
+      "AccountId": "001Bi00000P7svsIAB",
+      "Name": "ジャパン重工合同会社 - Replacement Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-02",
+      "Amount": 4030000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_131"
+      },
+      "AccountId": "001Bi00000P7svsIAB",
+      "Name": "ジャパン重工合同会社 - Upgrade Project 3",
+      "StageName": "Qualification",
+      "CloseDate": "2026-05-01",
+      "Amount": 8720000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_132"
+      },
+      "AccountId": "001Bi00000P7svtIAB",
+      "Name": "新日本エレクトロニクス株式会社 - Replacement Project 1",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-03-06",
+      "Amount": 1670000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_133"
+      },
+      "AccountId": "001Bi00000P7svtIAB",
+      "Name": "新日本エレクトロニクス株式会社 - Existing Business Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-04-01",
+      "Amount": 6860000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_134"
+      },
+      "AccountId": "001Bi00000P7svtIAB",
+      "Name": "新日本エレクトロニクス株式会社 - Upgrade Project 3",
+      "StageName": "Proposal/Price Quote",
+      "CloseDate": "2026-04-23",
+      "Amount": 3390000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_135"
+      },
+      "AccountId": "001Bi00000P7svuIAB",
+      "Name": "令和技研株式会社 - Replacement Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-21",
+      "Amount": 3790000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_136"
+      },
+      "AccountId": "001Bi00000P7svuIAB",
+      "Name": "令和技研株式会社 - Upgrade Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-03-15",
+      "Amount": 2290000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_137"
+      },
+      "AccountId": "001Bi00000P7svuIAB",
+      "Name": "令和技研株式会社 - Existing Business Project 3",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-04-11",
+      "Amount": 9560000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_138"
+      },
+      "AccountId": "001Bi00000P7svvIAB",
+      "Name": "東洋工業株式会社 - Upgrade Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-05-02",
+      "Amount": 2890000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_139"
+      },
+      "AccountId": "001Bi00000P7svvIAB",
+      "Name": "東洋工業株式会社 - Existing Business Project 2",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-04-02",
+      "Amount": 4960000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_140"
+      },
+      "AccountId": "001Bi00000P7svvIAB",
+      "Name": "東洋工業株式会社 - Replacement Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-06",
+      "Amount": 3420000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_141"
+      },
+      "AccountId": "001Bi00000P7svwIAB",
+      "Name": "アジア製造株式会社 - Upgrade Project 1",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-04",
+      "Amount": 1440000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_142"
+      },
+      "AccountId": "001Bi00000P7svwIAB",
+      "Name": "アジア製造株式会社 - Upgrade Project 2",
+      "StageName": "Prospecting",
+      "CloseDate": "2026-02-19",
+      "Amount": 2570000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_143"
+      },
+      "AccountId": "001Bi00000P7svwIAB",
+      "Name": "アジア製造株式会社 - Replacement Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-03-14",
+      "Amount": 6670000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_144"
+      },
+      "AccountId": "001Bi00000P7svxIAB",
+      "Name": "東洋化成株式会社 - Existing Business Project 1",
+      "StageName": "Qualification",
+      "CloseDate": "2026-03-01",
+      "Amount": 6210000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_145"
+      },
+      "AccountId": "001Bi00000P7svxIAB",
+      "Name": "東洋化成株式会社 - Existing Business Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-03-10",
+      "Amount": 8710000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_146"
+      },
+      "AccountId": "001Bi00000P7svxIAB",
+      "Name": "東洋化成株式会社 - Replacement Project 3",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-03-31",
+      "Amount": 5510000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_147"
+      },
+      "AccountId": "001Bi00000P7svyIAB",
+      "Name": "アジア技研合同会社 - Existing Business Project 1",
+      "StageName": "Value Proposition",
+      "CloseDate": "2026-02-23",
+      "Amount": 6670000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_148"
+      },
+      "AccountId": "001Bi00000P7svyIAB",
+      "Name": "アジア技研合同会社 - Existing Business Project 2",
+      "StageName": "Negotiation/Review",
+      "CloseDate": "2026-04-11",
+      "Amount": 2330000
+    },
+    {
+      "attributes": {
+        "type": "Opportunity",
+        "referenceId": "opp_149"
+      },
+      "AccountId": "001Bi00000P7svyIAB",
+      "Name": "アジア技研合同会社 - Existing Business Project 3",
+      "StageName": "Needs Analysis",
+      "CloseDate": "2026-04-30",
+      "Amount": 9660000
+    }
+  ]
+}

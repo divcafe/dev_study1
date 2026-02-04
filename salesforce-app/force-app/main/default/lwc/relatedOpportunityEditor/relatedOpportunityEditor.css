@@ -1,0 +1,81 @@
+/* Container Styling */
+.container {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* Header Styling */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #333;
+}
+
+/* Table Styling */
+.table-container {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+}
+
+th {
+  background-color: #e6f7ff; /* Pastel Blue */
+  color: #555;
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+/* Rounded corners for header */
+th:first-child {
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+th:last-child {
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+td {
+  padding: 0.5rem 0.5rem;
+  border-bottom: 1px solid #f3f3f3;
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+/* Row Hover Effect */
+tbody tr:hover {
+  background-color: #fafafa;
+  transition: background-color 0.2s ease;
+}
+
+/* Input Overrides for cleaner look */
+lightning-input,
+lightning-combobox {
+  --slds-c-input-radius-border: 6px;
+}
+
+.no-data {
+  text-align: center;
+  padding: 2rem;
+  color: #888;
+}

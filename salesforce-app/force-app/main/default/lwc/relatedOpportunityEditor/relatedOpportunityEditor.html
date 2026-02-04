@@ -1,0 +1,87 @@
+<template>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <h2 class="title">Related Opportunities</h2>
+      <lightning-button
+        variant="brand"
+        label="Save Changes"
+        onclick={handleSave}
+        icon-name="utility:save"
+        class="save-button"
+      >
+      </lightning-button>
+    </div>
+
+    <!-- Table -->
+    <div class="table-container" if:true={hasData}>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Opportunity Name</th>
+            <th scope="col">Stage</th>
+            <th scope="col">Close Date</th>
+            <th scope="col">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <template for:each={opportunities} for:item="opp">
+            <tr key={opp.Id}>
+              <td data-label="Name">
+                <lightning-input
+                  variant="label-hidden"
+                  value={opp.Name}
+                  data-id={opp.Id}
+                  data-field="Name"
+                  onchange={handleInputChange}
+                >
+                </lightning-input>
+              </td>
+              <td data-label="Stage">
+                <template if:true={stagePicklistValues.data}>
+                  <lightning-combobox
+                    variant="label-hidden"
+                    value={opp.StageName}
+                    options={stagePicklistValues.data.values}
+                    data-id={opp.Id}
+                    data-field="StageName"
+                    onchange={handleInputChange}
+                  >
+                  </lightning-combobox>
+                </template>
+              </td>
+              <td data-label="Close Date">
+                <lightning-input
+                  type="date"
+                  variant="label-hidden"
+                  value={opp.CloseDate}
+                  data-id={opp.Id}
+                  data-field="CloseDate"
+                  onchange={handleInputChange}
+                >
+                </lightning-input>
+              </td>
+              <td data-label="Amount">
+                <lightning-input
+                  type="number"
+                  formatter="currency"
+                  step="0.01"
+                  variant="label-hidden"
+                  value={opp.Amount}
+                  data-id={opp.Id}
+                  data-field="Amount"
+                  onchange={handleInputChange}
+                >
+                </lightning-input>
+              </td>
+            </tr>
+          </template>
+        </tbody>
+      </table>
+    </div>
+
+    <div if:false={hasData} class="no-data">
+      <p>No related opportunities found.</p>
+    </div>
+  </div>
+</template>
